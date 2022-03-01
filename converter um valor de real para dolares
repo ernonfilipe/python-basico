@@ -1,0 +1,3 @@
+X = float(input('Digite quanto voce tem na sua carteira: \n'))
+D = X*5
+print('Seu valor em dólares é: U$$ ',D)
