@@ -1,0 +1,4 @@
+n1 = input('digite algo: ')
+print('É uma letra ?',n1.isalpha())
+print('É uma número ?', n1.isnumeric())
+print('Qual a classe ?', type(n1)
