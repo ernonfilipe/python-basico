@@ -1,0 +1,4 @@
+X = int(input('digite um numero: '))
+A = X-1
+S = X+1
+print('O antecessor é', A,' e o sucessor é', S)
