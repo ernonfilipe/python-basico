@@ -1,0 +1,6 @@
+import random
+num = random.random()
+numm = random.randint(1,10)
+print(num)
+print('\n')
+print(numm)
