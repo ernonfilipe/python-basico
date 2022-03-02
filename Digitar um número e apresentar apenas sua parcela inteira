@@ -1,0 +1,4 @@
+#Digitar um número e apresentar apenas sua parcela inteira
+import math
+N = float(input('Digite um número: \n'))
+print('\n O número {} em formato inteiro é {}'.format(N,math.trunc(N)))
