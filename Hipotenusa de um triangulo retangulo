@@ -1,0 +1,6 @@
+#Encontrar a hipotenusa de um triângulo retângulo
+
+A = int(input('Digite o valor de um Cateto: '))
+B = int(input('Digite o valor de outro Cateto: '))
+H = (A**2+B**2)**0.5
+print('\nO valor da hipotenusa para esse triângulo retângulo é {}'.format(float(H)))
